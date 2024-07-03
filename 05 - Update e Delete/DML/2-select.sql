@@ -24,7 +24,7 @@ SELECT * FROM products WHERE "name" LIKE '%o';
 SELECT * FROM products WHERE "name" LIKE '%o%';
 
 
--- ILIKE (CASE INSENSITIVE -> Desconsidera diferença entre maisculas e minusicas)
+-- ILIKE (CASE INSENSITIVE -> Desconsidera diferença entre maiusculas e minusculas)
 -- 'A' = 'a'
 SELECT * FROM products WHERE "name" ILIKE 'mouse';
 SELECT * FROM products WHERE "name" ILIKE 'mouse%';
