@@ -2,10 +2,10 @@
   As operações abaixo são categorizadas como DML (Data Manipulation Language). São
   operações de interação com os registros do banco, como por exemplo:
   - Criação de registros (INSERT INTO)
-  - Seleção de registros (SELECT)
   - Atualização de registros (UPDATE)
   - Deleção de registros (DELETE)
-  - ...
+  O select em específico é categorizado como Data Query Language (DQL)
+  - Seleção de registros (SELECT)
  */
 
 -- Inserção (CREATE)
