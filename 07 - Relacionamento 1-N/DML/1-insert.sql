@@ -33,5 +33,5 @@ VALUES
   ('2024-07-25', 4),   -- Pedido de Pedro Souza
   ('2024-09-11', 5),   -- Pedido de Mariana Lima
   ('2024-09-23', 6),   -- Pedido de Rafael Costa
-  ('2024-12-10', 7);   -- Pedido de Carla Santos
+  ('2024-12-10', 7),   -- Pedido de Carla Santos
   ('2024-12-12', 7);   -- Pedido de Carla Santos
